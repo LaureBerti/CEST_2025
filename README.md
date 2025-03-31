@@ -2,6 +2,9 @@
 
 Python source code for reproducing our CEST 2025 paper results. 
 
+This work is supported by the European Horizon Project [eco2adapt]( https://www.eco2adapt.eu/) [grant agreement ID 101059498] (eco2adapt:
+Ecosystem-based Adaptation and Changemaking to Shape, Protect and Maintain the Resilience of Tomorrow’s
+Forests).
 
 
 
