@@ -17,9 +17,9 @@ Forests).
 
 
 
-
-
-
+### Authors
+* Pius Nwachukwu 
+* Laure Berti-Équille
 
 ### Abstract
 
